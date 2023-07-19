@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+img {
+    border-radius: 50%;
+    border-color: rgb(255, 0, 21);
+  }
+.intro{
+    color: white;
+    text-align: center;
+
+}
+
+    
+.t td {
+   font-size:xx-large;
+   border:2px solid rgb(255, 255, 255);
+   
+}
+.t{
+    margin-left: 400px;
+    padding: 30px;
+}
